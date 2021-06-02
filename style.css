@@ -1,0 +1,146 @@
+body {
+  margin-left: 350px;
+}
+
+.firstPart {
+  background-image: url(/images/header-bg.png);
+
+  width: 550px;
+  height: 300px;
+  padding: 80px 60px 80px 30px;
+  background-size: 800px 500px;
+  background-repeat: no-repeat;
+}
+.desc {
+  float: left;
+  width: 60%;
+  height: 30%;
+  text-align: left;
+}
+h1 {
+  font-weight: 100;
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  font-size: 55px;
+  color: red;
+  margin: 0;
+  padding: 0;
+}
+.main {
+  position: relative;
+  top: 30px;
+  text-align: left;
+}
+.allImage {
+  float: right;
+  width: 37%;
+  height: 20%;
+}
+
+#firstImg {
+  width: 250px;
+  height: auto;
+  inline-size: 240px;
+}
+.hireme {
+  color: white;
+  background-color: red;
+
+  margin-top: 35px;
+  margin-bottom: 40px;
+  margin-left: 2px;
+  border-radius: 4px;
+  border: 2px solid red;
+}
+.secpart {
+  background-image: url("/images/biography-bg.png");
+  width: 550px;
+  height: 300px;
+  padding: 80px 60px 80px 30px;
+  background-size: 800px 500px;
+  background-repeat: no-repeat;
+}
+.desc2 {
+  float: right;
+  width: 50%;
+  height: 50%;
+  text-align: left;
+}
+.cv {
+  color: white;
+  background-color: red;
+  padding: 0;
+  border-radius: 4px;
+  border: 2px solid red;
+}
+.moreImg {
+  float: left;
+  width: 50%;
+  height: auto;
+}
+#secImg {
+  width: 250px;
+  height: auto;
+  inline-size: 250px;
+}
+.latestWork {
+  background-image: url("/images/header-bg.png");
+  width: 550px;
+  height: 150px;
+  padding: 80px 60px 80px 30px;
+  background-size: 800px 500px;
+  background-repeat: no-repeat;
+}
+.latestWork h1 {
+  font-size: 25px;
+  text-align: center;
+}
+.column {
+  margin-top: 10%;
+  float: left;
+  width: 33.33%;
+  height: 33.33%;
+}
+.ending {
+  background-image: url(/images/footer-bg.png);
+  width: 550px;
+  height: 150px;
+  padding: 80px 60px 80px 30px;
+  background-size: 800px 500px;
+  background-repeat: no-repeat;
+}
+.ending h1 {
+  font-size: 25px;
+  text-align: center;
+}
+.ending h2 {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 40px;
+  color: black;
+}
+.ending h3 {
+  font-size: 13px;
+  text-align: center;
+}
+.desc3 {
+  text-align: center;
+}
+.messageMe {
+  height: 70px;
+  width: 300px;
+
+  margin-left: 120px;
+  color: white;
+  background-color: red;
+  border-radius: 4px;
+  border: 2px solid red;
+}
+.fstLine {
+  font-size: 12px;
+}
+.scndLine {
+  font-size: 17px;
+}
